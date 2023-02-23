@@ -1,0 +1,31 @@
+.right {
+    transform: rotate(90deg);
+}
+
+.left {
+    transform: rotate(-90deg);
+}
+
+.up {
+    transform: rotate(360deg);
+}
+
+.down {
+    transform: rotate(180deg);
+}
+
+#spaceship {
+    width: 100px;
+    height: 100px;
+}
+
+/* div {
+    background-color: greenyellow;
+    border: 3px solid green;
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-bottom: 50px solid green;
+
+} */

@@ -25,17 +25,5 @@
         }
     });
 
-    // document.addEventListener('keydown', function (event) {
-    //     if (event.code === 'ArrowUp') {
-    //         moveUp(spaceship);
-    //     } else if (event.code === 'ArrowDown') {
-    //         moveDown(spaceship);
-    //     } else if (event.code === 'ArrowLeft') {
-    //         moveLeft(spaceship);
-    //     } else if (event.code === 'ArrowRight') {
-    //         moveRight(spaceship);
-    //     }
-    // });
-
 
 })();
